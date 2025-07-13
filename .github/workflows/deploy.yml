@@ -1,9 +1,13 @@
 name: Deploy Docusaurus to GitHub Pages
-
 on:
   push:
     branches:
       - main
+
+permissions:
+  contents: write   # allow pushing commits
+  pages: write      # allow requesting Pages builds
+  id-token: write   # needed by some page deployments
 
 jobs:
   build-deploy:
