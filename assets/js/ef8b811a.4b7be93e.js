@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"Eric","title":"Founder, Owner of Negative Games","page":{"permalink":"/blog/authors/ericlmao"},"socials":{"github":"https://github.com/ericlmao"},"imageURL":"https://github.com/ericlmao.png","key":"ericlmao","count":1}]}')}}]);
