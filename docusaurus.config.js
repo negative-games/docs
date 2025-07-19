@@ -70,7 +70,7 @@ const config = {
       navbar: {
         title: 'Negative Games Docs',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Negative Games Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -105,7 +105,7 @@ const config = {
               },
               {
                 label: 'Punishments',
-                to: '/punishments/Introduction',
+                to: '/punishments/introduction',
               },
             ],
           },

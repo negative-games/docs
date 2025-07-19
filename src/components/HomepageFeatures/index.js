@@ -18,7 +18,7 @@ const FeatureList = [
   },
   {
     title: 'Punishments',
-    link: '/punishments/Introduction',
+    link: '/punishments/introduction',
     Svg: require('@site/static/img/punishments.svg').default,
     description: (
       <>

@@ -23,7 +23,9 @@ const sidebars = {
       'alumina/Introduction'
   ],
   punishmentsSidebar: [
-      'punishments/Introduction'
+      'punishments/updates',
+      'punishments/introduction',
+      'punishments/commands'
   ]
   // tutorialSidebar: [
   //   'intro',
