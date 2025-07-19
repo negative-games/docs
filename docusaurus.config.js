@@ -76,9 +76,15 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'aluminaSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'alumina',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'punishmentsSidebar',
+            position: 'left',
+            label: 'Punishments',
           },
           {
             href: 'https://github.com/negative-games/docs/',
@@ -94,8 +100,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/intro',
+                label: 'alumina',
+                to: '/alumina/Introduction',
+              },
+              {
+                label: 'Punishments',
+                to: '/punishments/Introduction',
               },
             ],
           },
