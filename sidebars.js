@@ -25,7 +25,15 @@ const sidebars = {
   punishmentsSidebar: [
       'punishments/updates',
       'punishments/introduction',
-      'punishments/commands'
+      'punishments/commands',
+      {
+        type: 'category',
+        label: 'Configs',
+        items: [
+            'punishments/configs/main.yml',
+            'punishments/configs/messages.yml',
+        ],
+      },
   ]
   // tutorialSidebar: [
   //   'intro',
